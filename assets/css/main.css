@@ -2529,6 +2529,7 @@ body.homepage.is-loading #header:after {
 
         .carousel article p {
             text-align: center;
+            color: black;
         }
 
 /* Wide */
