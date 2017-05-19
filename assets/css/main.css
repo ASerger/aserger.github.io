@@ -2082,6 +2082,9 @@ header .icon.circled {
         padding-top: 0;
     }
 
+#bioMain {
+    padding-top:20px;
+}
 /* Header */
 
 #header {
